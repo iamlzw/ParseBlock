@@ -1,2 +1,2 @@
 # ParseBlock
-a demo for parse fabric block file to json format
+a demo for parse fabric block(etc mychannel.block) file to human readable json format
